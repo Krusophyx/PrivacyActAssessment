@@ -67,3 +67,5 @@ Privacy Policy
 Website: kiwidrip.co.nz
 Main purpose: Purchasing, selling and trading clothing.
 
+. Explain how your privacy policy implements each of the five principles you analysed in the
+Privacy Checklist you created.
