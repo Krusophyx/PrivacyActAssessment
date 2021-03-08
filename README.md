@@ -50,7 +50,7 @@
 - [ ] Client has the ability to update personal information.
 
 Website: https://www.superette.co.nz/
-Main purpose: Surprette is a website that is primarily focused on the trading of clothing. Superette actively aims to create a culturally relevant experience through curation purchasing. Their products are influenced by the flow of the zeitgeist and trends of the ever changing fashion industry.
+Main purpose: Superette is a website that is primarily focused on the trading of clothing. Superette actively aims to create a culturally relevant experience through curation purchasing. Their products are influenced by the flow of the zeitgeist and trends of the ever changing fashion industry.
 Type of data being collected: Client name, contact details, billing and purchase information.
 
 Privacy Policy
