@@ -52,10 +52,10 @@
 Privacy Policy
 
 1. We collect personal information from you, including information about your:
-..* name
-..- contact information
-..- billing or purchase information
-* We collect your personal information in order to:
+* name
+* contact information
+* billing or purchase information
+2. We collect your personal information in order to:
 - create a trading profile
 * Besides our staff, we share this information with:
 a 3rd party in order to connect you with other traders.
