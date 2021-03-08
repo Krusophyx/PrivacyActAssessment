@@ -51,8 +51,8 @@
 
 Privacy Policy
 
-* We collect personal information from you, including information about your:
-..- name
+1. We collect personal information from you, including information about your:
+..* name
 ..- contact information
 ..- billing or purchase information
 * We collect your personal information in order to:
