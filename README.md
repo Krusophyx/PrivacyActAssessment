@@ -63,3 +63,7 @@ Privacy Policy
 5. We keep your information safe by storing it in encrypted files and only allowing certain staff to access it.
 6. We keep your information for 12 months at which point we securely destroy it by securely erasing all digi.
 7. You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at updatedetails@client.info.com.
+
+Website: kiwidrip.co.nz
+Main purpose: Purchasing, selling and trading clothing.
+
